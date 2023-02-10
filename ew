@@ -1,5 +1,5 @@
 	    getgenv().AimPart = "HumanoidRootPart"
-		getgenv().AimlockKey = "v"
+		getgenv().AimlockKey = "c"
 		getgenv().AimRadius = 50
 		getgenv().ThirdPerson = true
 		getgenv().FirstPerson = true
